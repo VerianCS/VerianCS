@@ -31,7 +31,9 @@ I am a full-stack developer and designer with experience in the use of various d
 - Relational Databases (MySQL, MariaDB, PostgreSQL)
 - Non Relational Databases (MongoDB)
 
-
+## Education
+(2018-2020) Cuba Provincial competitive programming team. 
+(2023-2027) Bachelor Sciences Student at Santiago Orient University [Universidad de Oriente]((https://uo.edu.cu/)).
 
 
 
