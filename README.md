@@ -21,7 +21,6 @@ I am a full-stack developer and designer with experience in the use of various d
 - NodeJs <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
 - ElectronJS <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
 - Python with frameworks like Django & Flask. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
-- Java with frameworks like Spring. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
 
 - Version control <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
 - Docker <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Normal&color=green" />
