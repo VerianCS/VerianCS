@@ -1,6 +1,6 @@
-# Keiji Nvaeil
+# Brian AV.
 
-##### Greetings, I am [IL-Professor](https://github.com/VerianCS/), also know as Keiji Nvaeil, computers sciences bachelor student. I am a self taught fullstack developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
+##### Greetings, I am [IL-Professor](https://github.com/VerianCS/), also know as Brian, computers sciences bachelor student. I am a self taught full-stack developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
 
 ## Contact
 
