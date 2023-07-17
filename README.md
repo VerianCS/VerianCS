@@ -1,6 +1,6 @@
 # Brian AV.
 
-##### Greetings, I am [IL-Professor](https://github.com/VerianCS/), also know as Brian, computers sciences bachelor student. I am a self taught full-stack developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
+##### Greetings, I am Brian, also know as [IL-Professor](https://github.com/VerianCS/), computers sciences student. I am a self taught back-end developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
 
 ## Contact
 
