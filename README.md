@@ -1,6 +1,6 @@
 # Brian AV.
 
-##### Greetings, I am Brian, also know as [IL-Professor](https://github.com/VerianCS/), computers sciences student. I am a self taught back-end developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
+##### Greetings, I am Brian, also know as [IL-Professor](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
 
 ## Contact
 
@@ -8,7 +8,7 @@
 
 ## Skills
 
-I am a back end developer with experience on several frameworks and technologies.
+I am a fullstack developer with experience on several frameworks and technologies.
 
 ### Programming
 
@@ -16,11 +16,19 @@ I am a back end developer with experience on several frameworks and technologies
 
 - Python back-end web API development with frameworks like **Django** & **Flask**. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
 
+- NodeJs back-end developement with Express and NestJs. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+
+- Front-end development with React. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+
 - Godot Game development with GD script. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
 
 - Version control <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
 
-### Dev OP Skills
+### Design skills
+
+- Design with Figma, Adobe Illustrator, Photoshop and Canvas <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+
+### Dev OPs
 
 - Docker <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Normal&color=green" />
 - Linux Server <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
