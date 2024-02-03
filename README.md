@@ -1,4 +1,4 @@
-# Brian AV.
+# Brian.
 
 ##### Greetings, I am Brian, also know as [IL-Professor](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
 
@@ -26,12 +26,13 @@ I am a fullstack developer with experience on several frameworks and technologie
 
 ### Design skills
 
-- Design with Figma, Adobe Illustrator, Photoshop and Canvas <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- Design of UI/UX with with Figma, Adobe Illustrator, Photoshop, Adobe DX. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
 
 ### Dev OPs
 
 - Docker <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Normal&color=green" />
 - Linux Server <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
+- Azure DevOps <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
 
 ### Databases
 
