@@ -12,9 +12,6 @@ I am a fullstack developer with experience on several frameworks and technologie
 
 ### Programming
 
-
-<img alt = ".NEt" style="width:50px height:50px" src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/C%23/C%23%20Purple.png" />
-
 - C# with ASP.NET core and overall .NET technology experience. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
 
 - Python back-end web API development with frameworks like **Django** & **Flask**. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
