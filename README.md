@@ -1,7 +1,6 @@
 # Brian.
 
-[<img alt="angela" src="[https://lobotomycorp.fandom.com/wiki/Angela?file=Smiling.PNG](https://lobotomycorp.fandom.com/wiki/Angela?file=Smiling.PNG)">]
-
+<img alt="angela" style="height:1.5rem; width:1.5rem" src="https://static.wikia.nocookie.net/lobotomycorp/images/0/02/Smiling.PNG/revision/latest?cb=20240610220818">
 
 ##### Greetings, I am Brian, also know as [IL-Professor](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer, passionate about programming, learning and improving myself on every project. I am an enthusiast of teamwork, challenges and everyday auto improving.
 
