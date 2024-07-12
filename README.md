@@ -90,7 +90,9 @@ An indie 3D game made in unity where you need to control armies of mages in RPG 
 
 ## Education
 (2018-2020) Cuba Provincial competitive programming team. 
+
 (2023-2027) Bachelor Computer Sciences Student at Santiago Orient University [Universidad de Oriente]((https://uo.edu.cu/)).
+
 (2022-2024) AI development additional course and formation certification.
 
 
