@@ -87,6 +87,8 @@ A minecraft launcher for bedrock for Windows platform, yes, because the original
 
 An indie 3D game made in unity where you need to control armies of mages in RPG style and combat in dungeons. (Under Closed Development)
 
+# Koriku
+An open source desktop music application capable of accessing several music streaming platforms at once from cuba.
 
 ## Education
 (2018-2020) Cuba Provincial competitive programming team. 
