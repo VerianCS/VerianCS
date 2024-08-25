@@ -41,7 +41,6 @@ My proficiency on several tech stack and technologies:
 ### Databases
 
 - Relational Databases (MySQL, MariaDB, PostgreSQL 
-- 
 - Non Relational Databases (MongoDB) 
 
 ## Experience
