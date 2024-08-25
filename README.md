@@ -1,6 +1,7 @@
 # Brian.
 
-##### Greetings, I am [Brian](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer and machine learning developer, passionate about programming, learning and improving myself on every project
+>[!NOTE]
+>##### Greetings, I am [Brian](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer and machine learning developer, passionate about programming, learning and improving myself on every project
 
 ## Contact
 
@@ -12,40 +13,36 @@ My proficiency on several tech stack and technologies:
 
 ### Programming
 
-- C# with ASP.NET core and overall .NET technology experience. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- C# with ASP.NET core and overall .NET technology experience. 
 
-- Machine learning and general AI framework developing experience with Pytorch - Tensorflow and data science. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- Machine learning and general AI framework developing experience with Pytorch - Tensorflow and data science. 
 
-- Python back-end web development with frameworks like **Django** & **Flask**. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- Python back-end web development with frameworks like **Django** & **Flask**. 
 
+- Front-end development with NextJs/React - Preact - Angular 
 
-- Front-end development with NextJs/React - Preact - Angular <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- Unity development skills using C#. 
 
-- Unity development skills using C#. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
-
-- Experience with GO programming language in web backend development and general backend development experience <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
-
+- Experience with GO programming language in web backend development and general backend development experience 
 
 ### Design skills
 
-- Design of UI/UX with with Figma, Adobe Illustrator, Photoshop, Adobe DX. <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
-
+- Design of UI/UX with with Figma, Adobe Illustrator, Photoshop, Adobe XD.
 ### Dev OPs
 
-- Docker <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Normal&color=green" />
+- Docker
 
-- Linux Server <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
+- Linux Server 
+- Microsoft Azure DevOps
 
-- Microsoft Azure DevOps <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
-
-- Jenkins <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
+- Jenkins
 
 
 ### Databases
 
-- Relational Databases (MySQL, MariaDB, PostgreSQL <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
+- Relational Databases (MySQL, MariaDB, PostgreSQL 
 - 
-- Non Relational Databases (MongoDB) <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=sucess" />
+- Non Relational Databases (MongoDB) 
 
 ## Experience
 
@@ -60,6 +57,10 @@ Portuaire Technology · Back End Web and AI developer.
 
 Back End AI Developer
 CENPIS UO · AI development and researcher.
+
+## Statistics
+
+![My stats](https://github-readme-stats.vercel.app/api?username=veriancs&show_icons=true&theme=transparent&rank_icon=github)
 
 ## Projects
 
