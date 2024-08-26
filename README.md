@@ -3,6 +3,12 @@
 >[!NOTE]
 >##### Greetings, I am [Brian](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer and machine learning developer, passionate about programming, learning and improving myself on every project
 
+
+
+https://github.com/user-attachments/assets/e22d51a3-bb38-4d1c-83df-da8f1355b000
+
+
+
 ## Contact
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/VerianCS) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:zafkiel023@gmail.com)[<img alt="Gmail" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Nvaeil)
