@@ -11,15 +11,17 @@ https://github.com/user-attachments/assets/e22d51a3-bb38-4d1c-83df-da8f1355b000
 
 ## Contact
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/VerianCS) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:zafkiel023@gmail.com)[<img alt="Gmail" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Nvaeil)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/VerianCS) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ring6dev@proton.me)[<img alt="Gmail" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Nvaeil)
 
 ## Skills
 
 My proficiency on several tech stack and technologies:
 
+[![My Skills](https://skillicons.dev/icons?i=aws,C#,azure,react,nextjs,python,docker,unity&perline=10)](https://skillicons.dev)
+
 ### Programming
 
-- C# with ASP.NET core and overall .NET technology experience. 
+- C# with ASP.NET core and overall .NET technology experience.
 
 - Machine learning and general AI framework developing experience with Pytorch - Tensorflow and data science. 
 
