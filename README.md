@@ -17,7 +17,11 @@ https://github.com/user-attachments/assets/e22d51a3-bb38-4d1c-83df-da8f1355b000
 
 My proficiency on several tech stack and technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,C#,azure,react,nextjs,python,docker,unity&perline=10)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,nextjs,python,tailwind,tensorflow,pytorch,redux,react,mysql,jenkins,visualstudio" />
+  </a>
+</p>
 
 ### Programming
 
