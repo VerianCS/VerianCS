@@ -1,7 +1,7 @@
 # Brian.
 
 >[!NOTE]
->##### Greetings, I am [Brian](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer and machine learning developer, passionate about programming, learning and improving myself on every project
+>##### Greetings, I am [Brian](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer and AI engineer, researcher of use of quantum algorithms in the AI development.
 
 
 
