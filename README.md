@@ -23,7 +23,7 @@ My proficiency on several tech stack and technologies:
   </a>
 </p>
 
-### Programming
+### Programming and frameworks
 
 - C# with ASP.NET core and overall .NET technology experience.
 
@@ -43,17 +43,16 @@ My proficiency on several tech stack and technologies:
 ### Dev OPs
 
 - Docker
-
 - Linux Server 
 - Microsoft Azure DevOps
-
 - Jenkins
-
+- AWS
+- Terraformer
+  
 
 ### Databases
 
 - Relational Databases (MySQL, MariaDB, PostgreSQL 
-- Non Relational Databases (MongoDB) 
 
 ## Experience
 
@@ -101,6 +100,9 @@ An indie 3D game made in unity where you need to control armies of mages in RPG 
 
 # Koriku
 An open source desktop music application capable of accessing several music streaming platforms at once from cuba.
+
+# Portfolio
+See https://veriancs.vercel.app my portfolio
 
 ## Education
 (2018-2020) Cuba Provincial competitive programming team. 
