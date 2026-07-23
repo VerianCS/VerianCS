@@ -1,116 +1,80 @@
-# Brian.
+# Hi there, I'm Brian 👋
 
 >[!NOTE]
->##### Greetings, I am [Brian](https://github.com/VerianCS/), computers sciences student. I am a self taught full stack developer and AI engineer, researcher of use of quantum algorithms in the AI development.
-
-
-
-https://github.com/user-attachments/assets/e22d51a3-bb38-4d1c-83df-da8f1355b000
-
-
-
-## Contact
-
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/VerianCS) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ring6dev@proton.me)[<img alt="Gmail" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Nvaeil)
-
-## Skills
-
-My proficiency on several tech stack and technologies:
+>##### Computer Science Educator & Full Stack Software Engineer 🚀
+>Specialized in building scalable backend systems with **Java & Spring Boot** and cross-platform applications with **Flutter**. Currently software developer at **Datys Santiago de Cuba**. Researcher in Quantum Algorithms applied to AI.
 
 <p align="center">
+  <a href="https://veriancs.vercel.app"><b>🌐 Portfolio</b></a> •
+  <a href="mailto:ring6dev@proton.me"><b>✉️ Email</b></a> •
+  <a href="https://t.me/Nvaeil"><b>💬 Telegram</b></a> •
+  <a href="https://github.com/VerianCS"><b>🐙 GitHub</b></a>
+</p>
+
+---
+
+### 🛠️ Primary Tech Stack
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,nextjs,python,tailwind,tensorflow,pytorch,redux,react,mysql,jenkins,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,postgres,docker,git,linux,mysql" />
   </a>
 </p>
 
-### Programming and frameworks
+- **Backend Development:** Java, Spring Boot (REST APIs, Microservices, Security, JPA/Hibernate)
+- **Mobile & Cross-Platform:** Flutter, Dart (Clean Architecture, State Management, Custom UI)
+- **Databases & DevOps:** PostgreSQL, MySQL, MariaDB, Docker, Linux Server Administration, CI/CD
 
-- C# with ASP.NET core and overall .NET technology experience.
+<details>
+<summary><b>Secondary Skills & Technical Background</b></summary>
 
-- Machine learning and general AI framework developing experience with Pytorch - Tensorflow and data science. 
+- **Other Languages & Web:** C# (.NET Core / ASP.NET), Python (Django, Flask), Go, Next.js / React, Tailwind
+- **AI & Data Science:** PyTorch, TensorFlow, Machine Learning, Quantum Algorithm Research
+- **UI/UX Design:** Figma, Adobe Illustrator, Photoshop, Adobe XD
+</details>
 
-- Python back-end web development with frameworks like **Django** & **Flask**. 
+---
 
-- Front-end development with NextJs/React - Preact - Angular 
+### 🚀 Featured Projects
 
-- Unity development skills using C#. 
+#### ☀️ **Solar Optimizer (SaaS)**
+* **Tech:** Java, Spring Boot, Flutter, Geolocation APIs, PostgreSQL
+* **Description:** SaaS platform designed for geolocation-based solar panel placement management, solar yield estimation, and site optimization.
 
-- Experience with GO programming language in web backend development and general backend development experience 
+#### 📅 **Event Management App**
+* **Tech:** Java, Spring Boot, Flutter, REST APIs
+* **Description:** Full-stack mobile and web application for managing event schedules, ticketing, and user registrations in real time.
 
-### Design skills
+#### 📖 **Cerravus**
+* **Tech:** Flutter, Dart
+* **Description:** Offline-first, feature-rich Manga reading application designed with smooth reader interaction and clean UI (standalone client app).
 
-- Design of UI/UX with with Figma, Adobe Illustrator, Photoshop, Adobe XD.
-### Dev OPs
+#### ⚡ **QuickToDoom**
+* **Tech:** Flutter, Dart
+* **Description:** Minimalist productivity and task management application built for speed and simplicity.
+* 🔗 **[View Repository](https://github.com/VerianCS/QuickToDoom)**
 
-- Docker
-- Linux Server 
-- Microsoft Azure DevOps
-- Jenkins
-- AWS
-- Terraformer
-  
+---
 
-### Databases
+### 💼 Work Experience
 
-- Relational Databases (MySQL, MariaDB, PostgreSQL 
+* 🏢 **Datys Santiago de Cuba** — *Software Developer* *(Present)*
+  * Full-stack software engineering and enterprise system development.
+* 🏢 **Desoft Cuba** — *Software Developer*
+  * Custom enterprise backend and web application development.
+* 🏢 **Joven Club de Computación y Electrónica** — *Web Designer & Developer*
+  * Web application development, UI design, and technical consultation.
 
-## Experience
+---
 
-Regional Programming Coach
-Provincial Cuba partial time programming coach.
+### 🎓 Education & Achievements
 
-Front End developer
-Front end Developer · MERX-HUB importations.
+- **B.Ed. in Computer Science & Informatics** — *Universidad de Oriente (UO)* **(Graduated)**
+- **(2018 – 2020)** Cuba Provincial Competitive Programming Team Member
 
-Back End AI Developer MID TIME
-Portuaire Technology · Back End Web and AI developer. 
+---
 
-Back End AI Developer
-CENPIS UO · AI development and researcher.
-
-## Statistics
-
-![My stats](https://github-readme-stats.vercel.app/api?username=veriancs&show_icons=true&theme=transparent&rank_icon=github)
-
-## Projects
-
-# SEKKANDOROKU
-
-AI CAPABLE OF DIAGNOSING NEURODEVELOPMENT DISORDERS AT EARLY AGES USING CV AND NLP. (UNDER CLOSED DEVELOPMENT)
-
-# HOLOPIPE
-
-.NET open source project for P2P file transferring using a CLUSTER environment with anonymous minimal trace.
-
-# MINESHARP
-
-A minecraft clone using C# and .NET technologies for better performance with "MODERN PCs" (JAVA SUCKS)
-
-# ANGELA OS
-
-A micro SO using C++ capable of booting in a toaster (UNDER CLOSED DEVELOPMENT FOR NOW)
-
-# Yet Another Minecraft Launcher for Bedrock (YAMLB)
-
-A minecraft launcher for bedrock for Windows platform, yes, because the original one sucks like java (SEE MINESHARP)
-
-# Just A Silly RPG - RTS
-
-An indie 3D game made in unity where you need to control armies of mages in RPG style and combat in dungeons. (Under Closed Development)
-
-# Koriku
-An open source desktop music application capable of accessing several music streaming platforms at once from cuba.
-
-# Portfolio
-See https://veriancs.vercel.app my portfolio
-
-## Education
-(2018-2020) Cuba Provincial competitive programming team. 
-
-(2023-2027) Bachelor Computer Sciences Student at Santiago Orient University [Universidad de Oriente]((https://uo.edu.cu/)).
-
-(2022-2024) AI development additional course and formation certification.
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VerianCS&show_icons=true&theme=tokyonight" alt="Brian's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerianCS&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
