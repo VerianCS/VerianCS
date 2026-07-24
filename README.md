@@ -1,8 +1,8 @@
 # Hi there, I'm Brian 👋
 
->[!NOTE]
->##### Computer Science Educator & Full Stack Software Engineer 🚀
->Specialized in building scalable backend systems with **Java & Spring Boot** and cross-platform applications with **Flutter**. Currently software developer at **Datys Santiago de Cuba**. Researcher in Quantum Algorithms applied to AI.
+> [!NOTE]
+> ##### Full Stack Software Engineer · Java & Spring Boot Specialist 🚀
+> Building scalable backend systems with **Java, Spring Boot** and cross-platform apps with **Flutter**. Currently a Software Developer at **Datys Santiago de Cuba**, researching the application of **Quantum Algorithms** to AI.
 
 <p align="center">
   <a href="https://veriancs.vercel.app"><b>🌐 Portfolio</b></a> •
@@ -17,60 +17,61 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,postgres,docker,git,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,postgres,mysql,docker,git,linux" />
   </a>
 </p>
 
-- **Backend Development:** Java, Spring Boot (REST APIs, Microservices, Security, JPA/Hibernate)
-- **Mobile & Cross-Platform:** Flutter, Dart (Clean Architecture, State Management, Custom UI)
-- **Databases & DevOps:** PostgreSQL, MySQL, MariaDB, Docker, Linux Server Administration, CI/CD
+- **Backend:** Java, Spring Boot — REST APIs, Microservices, Spring Security, JPA/Hibernate
+- **Mobile & Cross-Platform:** Flutter, Dart — Clean Architecture, State Management, Custom UI
+- **Data & Infra:** PostgreSQL, MySQL, MariaDB, Docker, Linux Server Administration, CI/CD
 
 <details>
-<summary><b>Secondary Skills & Technical Background</b></summary>
+<summary><b>🧩 Secondary Skills & Technical Background</b></summary>
 
-- **Other Languages & Web:** C# (.NET Core / ASP.NET), Python (Django, Flask), Go, Next.js / React, Tailwind
+- **Other Languages & Web:** C# (.NET Core / ASP.NET), Python (Django, Flask), Go, Next.js / React, Tailwind CSS
 - **AI & Data Science:** PyTorch, TensorFlow, Machine Learning, Quantum Algorithm Research
 - **UI/UX Design:** Figma, Adobe Illustrator, Photoshop, Adobe XD
+
 </details>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### ☀️ **Solar Optimizer (SaaS)**
-* **Tech:** Java, Spring Boot, Flutter, Geolocation APIs, PostgreSQL
-* **Description:** SaaS platform designed for geolocation-based solar panel placement management, solar yield estimation, and site optimization.
+#### ☀️ Solar Optimizer <sub>(SaaS · In Development)</sub>
+**Java · Spring Boot · Flutter · PostgreSQL · Geolocation APIs**
+Geolocation-based platform for solar panel placement planning, yield estimation, and site optimization.
 
-#### 📅 **Event Management App**
-* **Tech:** Java, Spring Boot, Flutter, REST APIs
-* **Description:** Full-stack mobile and web application for managing event schedules, ticketing, and user registrations in real time.
+#### 📅 Event Management App <sub>(In Development)</sub>
+**Java · Spring Boot · Flutter · REST APIs**
+Full-stack mobile and web app for managing event schedules, ticketing, and real-time registrations.
 
-#### 📖 **Cerravus**
-* **Tech:** Flutter, Dart
-* **Description:** Offline-first, feature-rich Manga reading application designed with smooth reader interaction and clean UI (standalone client app).
+#### 📖 Cerravus
+**Flutter · Dart**
+Offline-first manga reader with a smooth, custom reading experience and a clean UI.
 
-#### ⚡ **QuickToDoom**
-* **Tech:** Flutter, Dart
-* **Description:** Minimalist productivity and task management application built for speed and simplicity.
-* 🔗 **[View Repository](https://github.com/VerianCS/QuickToDoom)**
+#### ⚡ QuickToDoom
+**Flutter · Dart**
+Minimalist task management app built for speed and simplicity.
+🔗 [View Repository](https://github.com/VerianCS/QuickToDoom)
 
 ---
 
 ### 💼 Work Experience
 
-* 🏢 **Datys Santiago de Cuba** — *Software Developer* *(Present)*
-  * Full-stack software engineering and enterprise system development.
-* 🏢 **Desoft Cuba** — *Software Developer*
-  * Custom enterprise backend and web application development.
-* 🏢 **Joven Club de Computación y Electrónica** — *Web Designer & Developer*
-  * Web application development, UI design, and technical consultation.
+- **Datys Santiago de Cuba** — Software Developer *(Present)*
+  Full-stack engineering and enterprise system development.
+- **Desoft Cuba** — Software Developer
+  Custom enterprise backend and web application development.
+- **Joven Club de Computación y Electrónica** — Web Designer & Developer
+  Web application development, UI design, and technical consultation.
 
 ---
 
 ### 🎓 Education & Achievements
 
-- **B.Ed. in Computer Science & Informatics** — *Universidad de Oriente (UO)* **(Graduated)**
-- **(2018 – 2020)** Cuba Provincial Competitive Programming Team Member
+- **B.Ed. in Computer Science & Informatics** — Universidad de Oriente (UO), Cuba *(Graduated)*
+- **2018 – 2020** — Cuba Provincial Competitive Programming Team Member
 
 ---
 
