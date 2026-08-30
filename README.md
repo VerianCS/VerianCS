@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > ##### Full Stack Software Engineer · Java & Spring Boot Specialist 🚀
-> Building scalable backend systems with **Java, Spring Boot** and cross-platform apps with **Flutter**. Currently a Software Developer at **Datys Santiago de Cuba**, researching the application of **Quantum Algorithms** to AI.
+> Building scalable backend systems with **Java, Spring Boot** and cross-platform apps with **Flutter**. Currently a Software Developer at **Datys Santiago de Cuba**.
 
 <p align="center">
   <a href="https://veriancs.vercel.app"><b>🌐 Portfolio</b></a> •
