@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,postgres,mysql,docker,git,linux,dotnet,terraform,mongodb,apachenifi,kafka,elasticsearch" />
+    <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,postgres,mysql,docker,git,linux,dotnet,cs,terraform,mongodb,kafka,elasticsearch,godot,python,tensorflow  " />
   </a>
 </p>
 
