@@ -49,12 +49,19 @@ Full-stack mobile and web app for managing event schedules, ticketing, and real-
 #### 📖 Cerravus
 **Flutter · Dart**
 Offline-first manga reader with a smooth, custom reading experience and a clean UI.
+🔗[View Repository](https://github.com/VerianCS/cerravus-manga)
 
 #### ⚡ QuickToDoom
 **Flutter · Dart**
-Minimalist task management app built for speed and simplicity.
+Modern flutter based launcher with wad support, modpack management support for doom, an alternative to existing launchers, blazingly fast and multi platform.
 🔗 [View Repository](https://github.com/VerianCS/QuickToDoom)
 
+#### 🚀 CaenisOverseer
+**Java · Spring Boot · Nifi · Spring Boot Rest APIS · PaperMC Plugin · RCON development · NextJS
+A full fledged Minecraft server remote management suite with authentication, cheat detection in real game based in 3D heuristic, remote command execution
+and advanced security characteristics based in Springboot, a version that uses NiFi exist as first iteraction
+
+🔗 [View Repository](https://github.com/VerianCS/CaenisOverseerFleet)
 ---
 
 ### 💼 Work Experience
